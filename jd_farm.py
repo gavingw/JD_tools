@@ -19,7 +19,8 @@ waterFriendLimit = 2  # [0,2]   0: 始终不替他人浇水   2: 替他人浇水
 
 shareCodes = ["c081c648576e4e61a9697c3981705826",
               "f1d0d5ebda7c48c6b3d262d5574315c7",
-              "13d13188218a4e3aae0c4db803c81985"]
+              "13d13188218a4e3aae0c4db803c81985",
+             "hypnkh35uvhwmck3k2p5xx2pzq"]
 
 
 def postTemplate(cookies, functionId, body):
